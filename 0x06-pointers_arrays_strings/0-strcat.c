@@ -6,7 +6,6 @@
  * Return: void
 */
 char *_strcat(char *dest, char *src);
-[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[
 {
 int a = -1, i;
 for (i = 0; dest[i] != '\0'; i++)
